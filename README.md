@@ -6,4 +6,4 @@ Este es un proyecto de messenger inspirado por FB Messenger.
 
 El objetivo de este proyecto era realizar un proyecto usando el stack de Angular y Firebase Realtime Database y Firebase Hosting. 
 
-i
+![](src/assets/img/Screen%20Shot%202020-04-02%20at%2010.32.35%20PM.png)
