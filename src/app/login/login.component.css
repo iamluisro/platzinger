@@ -1,0 +1,9 @@
+.loginContainer {
+    background-image: url('src/assets/img/msnbg.jpg');
+    background-size: contain;
+    background-repeat: no-repeat; 
+}
+.avatarImg {
+    height: 120px;
+    width: 120px;
+}
